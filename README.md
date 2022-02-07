@@ -1,4 +1,4 @@
-# PickaxeBalancing
+# Pickaxe Balancing
 This is a small mod that changes the stats of some pickaxes and drills, consisting almost entirely of buffs.
 The most major changes are:
 * Buffing silver, tungsten, and gold pickaxes, and compensation buffs to later pre-hardmode pickaxes
