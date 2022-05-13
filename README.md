@@ -1,7 +1,7 @@
 # Pickaxe Balancing
 This is a small mod that changes the stats of some pickaxes and drills, consisting almost entirely of buffs.
 
-# Full list of changes (remember, lower tool speed is better):
+# Full list of changes (remember, lower tool speed is better)
 Cactus Pickaxe
 * Tool speed reduced from 16 to 15
 
