@@ -12,24 +12,36 @@ namespace PickaxeBalancing
 			{
 				//Pre-Hardmode
 				case ItemID.CactusPickaxe:
+					item.useTime = 15;
+					break;
+
+				case ItemID.CopperPickaxe:
 					item.useTime = 14;
 					break;
 
+				case ItemID.TinPickaxe:
+					item.useTime = 13;
+					break;
+
+				case ItemID.IronPickaxe:
+					item.useTime = 12;
+					break;
+
+				case ItemID.LeadPickaxe:
+					item.useTime = 11;
+					break;
+
 				case ItemID.SilverPickaxe:
-					item.useTime = 16;
+					item.useTime = 17;
 					item.pick = 50;
 					break;
 
 				case ItemID.TungstenPickaxe:
-					item.useTime = 15;
+					item.useTime = 16;
 					break;
 
 				case ItemID.GoldPickaxe:
-					item.useTime = 14;
-					break;
-
-				case ItemID.PlatinumPickaxe:
-					item.useTime = 14;
+					item.useTime = 15;
 					break;
 
 				case ItemID.FossilPickaxe:
@@ -37,15 +49,12 @@ namespace PickaxeBalancing
 					break;
 
 				case ItemID.NightmarePickaxe:
+					item.useTime = 14;
 					item.pick = 70;
-					goto case ItemID.DeathbringerPickaxe;
-
-				case ItemID.DeathbringerPickaxe:
-					item.useTime = 13;
 					break;
 
 				case ItemID.MoltenPickaxe:
-					item.useTime = 15;
+					item.useTime = 16;
 					break;
 
 				//Hardmode

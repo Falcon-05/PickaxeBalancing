@@ -1,35 +1,32 @@
 This is a small mod that changes the stats of some pickaxes and drills, consisting almost entirely of buffs.
-The most major changes are:
-* Buffing silver, tungsten, and gold pickaxes, and compensation buffs to later pre-hardmode pickaxes
-* Buffs to drills to make surpassing them with pickaxe mining speed buffs slightly harder
 
-Full list of changes:
+Full list of changes (remember, lower tool speed is better):
 
 Cactus Pickaxe
-* Tool speed reduced from 16 to 14
+* Tool speed reduced from 16 to 15
+
+Copper, Tin, Iron, Lead Pickaxes
+* Tool speed reduced by 1
 
 Silver Pickaxe
-* Tool speed increased from 11 to 16
-* Pickaxe power increased from 45% to 50%
+* Tool speed increased from 11 to 17
+* Pickaxe power increased from 45% to 50% (Allows it to mine Meteorite, and break stone in 2 hits instead of 3)
 
 Tungsten Pickaxe
-* Tool speed reduced from 19 to 15
+* Tool speed reduced from 19 to 16
 
 Gold Pickaxe
-* Tool speed reduced from 17 to 14
-
-Platinum Pickaxe
-* Tool speed reduced from 15 to 14
+* Tool speed reduced from 17 to 15
 
 Fossil Pickaxe
 * Tool speed reduced from 14 to 13
 
-Nightmare and Deathbringer Pickaxe
-* Tool speed on both pickaxes reduced to 13
-* Pickaxe power on nightmare pickaxe increased from 65% to 70%
+Nightmare Pickaxe
+* Tool speed reduced from 15 to 14
+* Pickaxe power increased from 65% to 70%
 
 Molten Pickaxe
-* Tool speed reduced from 18 to 15
+* Tool speed reduced from 18 to 16
 
 Cobalt Pickaxe
 * Mining speed reduced from 13 to 12
