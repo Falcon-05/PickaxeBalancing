@@ -10,6 +10,7 @@ Cactus Pickaxe
 
 Silver Pickaxe
 * Tool speed increased from 11 to 16
+* Pickaxe power increased from 45% to 50%
 
 Tungsten Pickaxe
 * Tool speed reduced from 19 to 15
